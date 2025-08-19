@@ -1,0 +1,43 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\source\\soulslike\\soulslikeplayercontroller.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\intermediate\\build\\win64\\x64\\soulslikeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\soulslike\\definitions.soulslike.h",
+            "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\source\\soulslike\\soulslikeplayercontroller.h",
+            "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\intermediate\\build\\win64\\unrealeditor\\inc\\soulslike\\uht\\soulslikeplayercontroller.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\enhancedinputsubsystems.h",
+            "d:\\programs\\ue_5.6\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\enhancedinputsubsysteminterface.h",
+            "d:\\programs\\ue_5.6\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\enhancedplayerinput.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerinput.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\engine\\public\\gesturerecognizer.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\engine\\public\\keystate.h",
+            "d:\\programs\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playerinput.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputaction.h",
+            "d:\\programs\\ue_5.6\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputmodifiers.h",
+            "d:\\programs\\ue_5.6\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "d:\\programs\\ue_5.6\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputmodifiers.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputtriggers.h",
+            "d:\\programs\\ue_5.6\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputtriggers.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputaction.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "d:\\programs\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\gameplaytags\\public\\nativegameplaytags.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagsmanager.h",
+            "d:\\programs\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagsmanager.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedplayerinput.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedinputsubsysteminterface.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedinputsubsystems.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputmappingcontext.h",
+            "d:\\programs\\ue_5.6\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\enhancedactionkeymapping.h",
+            "d:\\programs\\ue_5.6\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedactionkeymapping.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputmappingcontext.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\intermediate\\build\\win64\\unrealeditor\\inc\\soulslike\\uht\\combatcharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\intermediate\\build\\win64\\x64\\soulslikeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\soulslike\\definitions.soulslike.h",
+            "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\source\\soulslike\\variant_combat\\combatcharacter.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "d:\\programs\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\programs\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\source\\soulslike\\variant_combat\\combatattacker.h",
+            "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\intermediate\\build\\win64\\unrealeditor\\inc\\soulslike\\uht\\combatattacker.generated.h",
+            "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\source\\soulslike\\variant_combat\\combatdamageable.h",
+            "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\intermediate\\build\\win64\\unrealeditor\\inc\\soulslike\\uht\\combatdamageable.generated.h",
+            "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\intermediate\\build\\win64\\unrealeditor\\inc\\soulslike\\uht\\combatcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

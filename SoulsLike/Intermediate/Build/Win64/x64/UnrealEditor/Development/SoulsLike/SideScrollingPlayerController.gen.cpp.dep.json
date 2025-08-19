@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\intermediate\\build\\win64\\unrealeditor\\inc\\soulslike\\uht\\sidescrollingplayercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\intermediate\\build\\win64\\x64\\soulslikeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\soulslike\\definitions.soulslike.h",
+            "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\source\\soulslike\\variant_sidescrolling\\sidescrollingplayercontroller.h",
+            "d:\\programs\\ue_5.6\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputaction.h",
+            "d:\\programs\\ue_5.6\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputmodifiers.h",
+            "d:\\programs\\ue_5.6\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "d:\\programs\\ue_5.6\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputmodifiers.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputtriggers.h",
+            "d:\\programs\\ue_5.6\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputtriggers.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputaction.generated.h",
+            "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\intermediate\\build\\win64\\unrealeditor\\inc\\soulslike\\uht\\sidescrollingplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

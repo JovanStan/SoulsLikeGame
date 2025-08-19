@@ -1,0 +1,28 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\intermediate\\build\\win64\\unrealeditor\\inc\\soulslike\\uht\\sidescrollingaicontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\intermediate\\build\\win64\\x64\\soulslikeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\soulslike\\definitions.soulslike.h",
+            "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\source\\soulslike\\variant_sidescrolling\\ai\\sidescrollingaicontroller.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\aicontroller.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\aitypes.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\navigationsystem\\public\\navigationsystemtypes.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\ai\\navigation\\navagentselector.h",
+            "d:\\programs\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\navagentselector.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aitypes.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\perception\\aiperceptionlistenerinterface.h",
+            "d:\\programs\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aiperceptionlistenerinterface.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\genericteamagentinterface.h",
+            "d:\\programs\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\genericteamagentinterface.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\engine\\public\\visuallogger\\visualloggerdebugsnapshotinterface.h",
+            "d:\\programs\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\visualloggerdebugsnapshotinterface.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aicontroller.generated.h",
+            "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\intermediate\\build\\win64\\unrealeditor\\inc\\soulslike\\uht\\sidescrollingaicontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

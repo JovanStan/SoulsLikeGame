@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SoulsLike.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:/Unreal Projects/C++ Projects/SoulsLikeGame/SoulsLike/Intermediate/Build/Win64/x64/SoulsLikeEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"E:/Unreal Projects/C++ Projects/SoulsLikeGame/SoulsLike/Intermediate/Build/Win64/x64/UnrealEditor/Development/SoulsLike/SoulsLike.init.gen.cpp.obj"
+"E:/Unreal Projects/C++ Projects/SoulsLikeGame/SoulsLike/Intermediate/Build/Win64/x64/UnrealEditor/Development/SoulsLike/SoulsLikeCharacter.gen.cpp.obj"
+"E:/Unreal Projects/C++ Projects/SoulsLikeGame/SoulsLike/Intermediate/Build/Win64/x64/UnrealEditor/Development/SoulsLike/SoulsLikeGameMode.gen.cpp.obj"
+"E:/Unreal Projects/C++ Projects/SoulsLikeGame/SoulsLike/Intermediate/Build/Win64/x64/UnrealEditor/Development/SoulsLike/SoulsLikePlayerController.gen.cpp.obj"
+"E:/Unreal Projects/C++ Projects/SoulsLikeGame/SoulsLike/Intermediate/Build/Win64/x64/UnrealEditor/Development/SoulsLike/SoulsLike.cpp.obj"
+"E:/Unreal Projects/C++ Projects/SoulsLikeGame/SoulsLike/Intermediate/Build/Win64/x64/UnrealEditor/Development/SoulsLike/SoulsLikeCharacter.cpp.obj"
+"E:/Unreal Projects/C++ Projects/SoulsLikeGame/SoulsLike/Intermediate/Build/Win64/x64/UnrealEditor/Development/SoulsLike/SoulsLikeGameMode.cpp.obj"
+"E:/Unreal Projects/C++ Projects/SoulsLikeGame/SoulsLike/Intermediate/Build/Win64/x64/UnrealEditor/Development/SoulsLike/SoulsLikePlayerController.cpp.obj"
+"E:/Unreal Projects/C++ Projects/SoulsLikeGame/SoulsLike/Intermediate/Build/Win64/x64/UnrealEditor/Development/SoulsLike/PerModuleInline.gen.cpp.obj"
+"E:/Unreal Projects/C++ Projects/SoulsLikeGame/SoulsLike/Intermediate/Build/Win64/x64/UnrealEditor/Development/SoulsLike/Default.rc2.res"
+/OUT:"E:/Unreal Projects/C++ Projects/SoulsLikeGame/SoulsLike/Intermediate/Build/Win64/x64/UnrealEditor/Development/SoulsLike/UnrealEditor-SoulsLike.lib"

@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\source\\soulslike\\variant_platforming\\platforminggamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\intermediate\\build\\win64\\x64\\soulslikeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\soulslike\\definitions.soulslike.h",
+            "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\source\\soulslike\\variant_platforming\\platforminggamemode.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\programs\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\programs\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\programs\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "e:\\unreal projects\\c++ projects\\soulslikegame\\soulslike\\intermediate\\build\\win64\\unrealeditor\\inc\\soulslike\\uht\\platforminggamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

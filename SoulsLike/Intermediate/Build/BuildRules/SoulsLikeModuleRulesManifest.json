@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Unreal Projects\\C++ Projects\\SoulsLikeGame\\SoulsLike\\Source\\SoulsLike\\SoulsLike.Build.cs",
+		"E:\\Unreal Projects\\C++ Projects\\SoulsLikeGame\\SoulsLike\\Source\\SoulsLike.Target.cs",
+		"E:\\Unreal Projects\\C++ Projects\\SoulsLikeGame\\SoulsLike\\Source\\SoulsLikeEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.0"
+}
